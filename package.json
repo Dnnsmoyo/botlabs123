@@ -1,0 +1,22 @@
+{
+  "name": "analytics",
+  "version": "1.0.0",
+  "description": "a chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnnsmoyo/botlabs123.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "dennis moyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dnnsmoyo/botlabs123/issues"
+  },
+  "homepage": "https://github.com/Dnnsmoyo/botlabs123#readme"
+}
