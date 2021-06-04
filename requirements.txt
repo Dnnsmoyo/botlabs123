@@ -7,7 +7,7 @@ ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
 cymem==2.0.2
 decorator==4.4.0
-Django==2.2.2
+Django==2.2.21
 djangorestframework==3.9.4
 future==0.17.1
 idna==2.8
@@ -62,7 +62,7 @@ ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
 cymem==2.0.2
 decorator==4.4.0
-Django==2.2.2
+Django==2.2.21
 djangorestframework==3.9.4
 future==0.17.1
 gunicorn==19.9.0
@@ -118,7 +118,7 @@ ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
 cymem==2.0.2
 decorator==4.4.0
-Django==2.2.2
+Django==2.2.21
 djangorestframework==3.9.4
 future==0.17.1
 gunicorn==19.9.0
@@ -177,7 +177,7 @@ ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
 cymem==2.0.2
 decorator==4.4.0
-Django==2.2.2
+Django==2.2.21
 djangorestframework==3.9.4
 future==0.17.1
 gunicorn==19.9.0
