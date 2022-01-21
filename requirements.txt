@@ -11,7 +11,7 @@ Django==2.2.2
 djangorestframework==3.9.4
 future==0.17.1
 idna==2.8
-ipython==6.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.0
 joblib==0.13.2
@@ -67,7 +67,7 @@ djangorestframework==3.9.4
 future==0.17.1
 gunicorn==19.9.0
 idna==2.8
-ipython==6.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.0
 joblib==0.13.2
@@ -123,7 +123,7 @@ djangorestframework==3.9.4
 future==0.17.1
 gunicorn==19.9.0
 idna==2.8
-ipython==6.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.0
 joblib==0.13.2
@@ -182,7 +182,7 @@ djangorestframework==3.9.4
 future==0.17.1
 gunicorn==19.9.0
 idna==2.8
-ipython==6.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.0
 joblib==0.13.2
