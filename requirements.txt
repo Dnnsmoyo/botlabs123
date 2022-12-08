@@ -1,7 +1,7 @@
 attrs==19.1.0
 backcall==0.1.0
 blis==0.2.4
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
@@ -56,7 +56,7 @@ wcwidth==0.1.7
 attrs==19.1.0
 backcall==0.1.0
 blis==0.2.4
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
@@ -112,7 +112,7 @@ wcwidth==0.1.7
 attrs==19.1.0
 backcall==0.1.0
 blis==0.2.4
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
@@ -171,7 +171,7 @@ backcall==0.1.0
 billiard==3.6.0.0
 blis==0.2.4
 celery==4.3.0
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 ChatterBot==0.8.7
 chatterbot-corpus==1.1.2
